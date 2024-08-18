@@ -1,0 +1,173 @@
+.button1{
+    display:grid;
+    width:100px;
+    height:40px;
+    margin:12px;
+    margin-top:22px;
+    background-color:transparent;
+    border:none;
+    align-items:center;
+    text-align:center;
+    border-radius:4px;
+    color:white;
+}
+
+.button1:hover{
+    color:black;
+    background-color:white;
+    transition-duration: 0.015s;
+}
+
+.button2{
+    display:grid;
+    width:100px;
+    height:40px;
+    margin:12px;
+    margin-top:22px;
+    background-color:transparent;
+    border:none;
+    align-items:center;
+    text-align:center;
+    border-radius:4px;
+    color:white;
+}
+
+.button2:hover{
+    color:black;
+    background-color:white;
+    transition-duration: 0.015s;
+}
+
+.button3{
+    color:white;
+    display:grid;
+    width:100px;
+    height:40px;
+    margin:12px;
+    margin-top:22px;
+    background-color:transparent;
+    border:none;
+    align-items:center;
+    text-align:center;
+    border-radius:4px;
+}
+
+.button3:hover{
+    color:black;
+    background-color:white;
+    transition-duration: 0.015s;
+}
+
+.button4{
+    color:white;
+    display:grid;
+    width:100px;
+    height:40px;
+    margin:12px;
+    margin-top:22px;
+    background-color:transparent;
+    border:none;
+    align-items:center;
+    text-align:center;
+    border-radius:4px;
+}
+
+.button4:hover{
+    color:black;
+    background-color:white;
+    transition-duration: 0.015s;
+}
+
+.button5{
+    color:white;
+    display:grid;
+    width:110px;
+    height:40px;
+    margin:12px;
+    margin-top:22px;
+    background-color:transparent;
+    border:none;
+    align-items:center;
+    text-align:center;
+    border-radius:4px;
+}
+
+.button5:hover{
+    color:black;
+    background-color:white;
+    transition-duration: 0.015s;
+}
+
+.button6{
+    color:white;
+    display:grid;
+    width:100px;
+    height:40px;
+    margin:12px;
+    margin-top:22px;
+    background-color:transparent;
+    border:none;
+    align-items:center;
+    text-align:center;
+    border-radius:4px;
+}
+
+.button6:hover{
+    color:black;
+    background-color:white;
+    transition-duration: 0.015s;
+}
+
+.button7{
+    color:white;
+    display:grid;
+    width:100px;
+    height:40px;
+    margin:12px;
+    margin-top:22px;
+    background-color:transparent;
+    border:none;
+    align-items:center;
+    text-align:center;
+    border-radius:4px;
+}
+
+.button7:hover{
+    color:black;
+    background-color:white;
+    transition-duration: 0.015s;
+}
+
+.info_buttons{
+    height:70px;
+    display:flex;
+    width: 500px; 
+    align-items: center;
+}
+
+.contact_button{
+    border-radius:4px;
+    padding:12px;
+    color:white;
+    background-color:black;
+}
+
+.contact_button:hover{
+    background-color: white;
+    color:black;
+}
+
+.resume_button{
+    border-radius:4px;
+    padding: 13px;
+    margin:25px;
+    background-color: black;
+    color:white;
+    padding-right:18px;
+    padding-left:18px;
+}
+
+.resume_button:hover{
+    background-color: white;
+    color:black;
+}
